@@ -1,0 +1,35 @@
+body {
+            font-family: Georgia,Serif;
+            padding: 20px;
+			
+        }
+
+table{
+		width:50%;
+         margin: auto;
+        }
+div{
+	width:400px;
+	margin:auto;
+}
+img{
+	width:100%;
+}
+
+.inred{
+	
+	color:red;
+	
+}
+
+.highlight 
+{
+            background-color: orange;
+        }
+.bold {
+            font-weight: bold;
+        }
+.underline 
+{
+            text-decoration: underline;
+        }
